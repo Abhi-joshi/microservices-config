@@ -1,1 +1,2 @@
-cards.msg =Welcome to the Cards Default application
+cards:
+  msg: Welcome to the Cards Default application

@@ -1,1 +1,2 @@
-loans.msg =Welcome to the Loans Default application
+loans:
+  msg: Welcome to the Loans Default application
